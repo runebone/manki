@@ -1,7 +1,7 @@
 # manki
 Future minimalist anki application (https://github.com/ankitects/anki), but cards are stored as markdown files.
 
-No **.apkg**-s, no **.colpkg**-s. Just folders and **.md** files. Yes, you will be able to use them in your Zettelkasten app.
+No **.apkg**-s, no **.colpkg**-s. Just folders and **.md** files. Yes, you will be able to use them in your Zettelkasten app and edit in Vim.
 
 Logo will look something like this:
 
