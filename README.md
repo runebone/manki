@@ -6,3 +6,6 @@ No **.apkg**-s, no **.colpkg**-s. Just folders and **.md** files. Yes, you will 
 Logo will look something like this:
 
 ![image](https://user-images.githubusercontent.com/101004736/159734026-34ef55cf-956f-4760-bca3-44a6db1d30ff.png)
+
+## TODO / Ideas
+Link with cloud storage server?
