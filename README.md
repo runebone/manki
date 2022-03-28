@@ -9,3 +9,4 @@ Logo will look something like this:
 
 ## TODO / Ideas
 Link with cloud storage server?
+How to setup sync between client and web?
